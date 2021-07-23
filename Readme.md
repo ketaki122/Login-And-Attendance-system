@@ -7,7 +7,7 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built with</a></li>
     <li><a href="#key-features">Key Features</a></li>
-    <li><a href="#project-demo">Project Screenshots</a></li>
+    <li><a href="#project-demo">Project-Demo</a></li>
     <li><a href="#license">License</a></li>
     </ol>
 </details>
@@ -30,19 +30,39 @@ It also helps in reducing the amount of errors caused during manually updating t
       <li>Tkinter Library for Python</li>
     </ul>
   </p>
-  
-  
-  
- <!-- PROJECT DEMO -->
-# Project Screenshots
+ 
+ 
+ 
+ 
+
+ 
+# Project-Demo
+
   <p align = "center">
     <p>
-      <img src="./img102.jpg" width="1425" height="734" alt="Demo" />
+      <img src="./img102.jpg" width="800" height="434" alt="Demo" />
+      <br/>
+      <img src="./img104.jpg" width="800" height="434" alt="Demo" />
+      <br/>
+      <img src="./img112.jpg" width="1000" height="434" alt="Demo" />
+      <br/>
+      <img src="./img114.jpg" width="800" height="434" alt="Demo" />
       <br/>
       
   </p>
 
 
-<!-- BUILT WITH -->
+<!-- KEY FEATURES -->
+# Key Features
+  <p align = "left">
+    <ul>
+      <li>Faculty Login</li>
+      <li>Add new attendance</li>
+      <li>Add new student</li>
+      <li> Attendance saved in Excel Sheet</li>
+    </ul>
+  </p>
 
+# License
 
+Distributed under the MIT License. See `LICENSE` for more information.
